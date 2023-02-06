@@ -16,5 +16,11 @@ The GA approach to improving the architecture of CNNs removes the need for exten
 
 - `utilities.py` : contains plot functions and common functions among the different files (e.g., load dataset)
 
-##2. HO structure
+#2. HO structure
 
+
+### To run
+
+To run the genetic algorithm:
+
+```python3 HO/main.py```
