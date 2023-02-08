@@ -1,4 +1,4 @@
-![image description](/Users/noor/dropbox/github/Optimizer/logo.pdf)
+![image description][(/Users/noor/dropbox/github/Optimizer/logo.pdf)](https://github.com/SBNoor/metaOptimizer/blob/main/logo.pdf)
 
 
 # Variable Length Architecture Optimization
