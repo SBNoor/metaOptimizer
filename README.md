@@ -1,3 +1,6 @@
+![image description](/Users/noor/dropbox/github/Optimizer/logo.pdf)
+
+
 # Variable Length Architecture Optimization
 
 This project aims to enhance the architecture of a Convolutional Neural Network (CNN) utilized for genomics tasks by implementing a genetic algorithm (GA). Designing the architecture of a CNN can be a complex process due to the multiple parameters that must be configured, including activation functions, layer types, and hyperparameters. With the large number of parameters in many modern networks, finding the optimal configuration by hand is often impractical. Traditional methods can have limitations, and with limited computational resources available to researchers, many CNN projects are carried out by experts who rely on their specialized knowledge and experimentation results.
