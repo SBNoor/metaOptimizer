@@ -43,10 +43,6 @@ class ModelLogger:
         self.nn_model = nn_model
         self.nn_optimizer = nn_optimizer
 
-        # Transfer NN model to CPU
-        # self.nn_model = self.nn_model.to('cpu')
-        # self.nn_model.eval()
-
     def update_history(self, current_cycle: int, current_epoch: int,
                        is_last_epoch: bool, model_score: float) -> None:
         """
