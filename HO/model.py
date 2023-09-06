@@ -1,14 +1,8 @@
 import os
 import shutil
-# import torch
-# from torch import jit
-# import torch.nn as nn
-# import torch.utils.data as data_utils
 from copy import deepcopy
-
 from evolutionary import *
 from log import ModelLogger, PopulationLogger, get_device
-
 import tensorflow as tf
 import numpy as np
 
