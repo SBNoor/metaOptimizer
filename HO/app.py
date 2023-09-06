@@ -1,12 +1,6 @@
 import tensorflow as tf
 import numpy as np
-
 from model import NNOptimizer
-
-# Necessary for reproducibility of results
-# random_seed = 100
-# torch.backends.cudnn.enabled = False
-# torch.manual_seed(random_seed)
 
 
 X_train, Y_train = np.load("X_train_new.npy"), np.load("y_train_new.npy")
