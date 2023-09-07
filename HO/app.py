@@ -12,7 +12,7 @@ print(X_train.shape)
 X_train = X_train.transpose([0,2,1])
 X_test = X_test.transpose([0,2,1])
 
-# Initialization simple FNN for MNIST classification task
+# Initialization for classification task
 # You need to prepare a class that will have "forward" function in addition to "initialization"
 
 layers = [
